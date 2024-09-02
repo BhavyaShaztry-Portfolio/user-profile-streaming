@@ -42,7 +42,8 @@ __Cassandra__: Where the processed data will be stored.
 
 # Demo
 # Apache Airflow DAG
-![Screenshot (110)](https://github.com/user-attachments/assets/59ca136c-b421-4885-a59f-3242cf8b5cbe)
+![Screenshot (110)](https://github.com/user-attachments/assets/d2bd7af7-0075-40c6-a887-61d8d8a4b244)
+
 
 
 # Confluent Control Center Consumption Stats and Health of Broker
