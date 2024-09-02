@@ -18,8 +18,14 @@ Cassandra: Where the processed data will be stored.
 
 Setup and Requirements
 
-Clone the repository git clone https://github.com/BhavyaShaztry-Portfolio/user-profile-streaming.git
+1. Clone the repository
+   
+ '''git clone https://github.com/BhavyaShaztry-Portfolio/user-profile-streaming.git'''
 
-Navigate to the project directory: cd user-profile-streaming
+2. Navigate to the project directory
 
-Run Docker Compose to Spin Up the Service docker-compose up
+   ''' cd user-profile-streaming'''
+
+3. Run Docker Compose to Spin Up the Service
+   
+   '''docker-compose up'''
