@@ -10,11 +10,11 @@ In this project, I have used the Random User Generator API to fetch data intermi
 
 The project is designed with the following components:
 
-__Data Source__: We use randomuser.me API to generate random user data for our pipeline.
-__Apache Airflow__: Responsible for orchestrating the pipeline and storing fetched data in a PostgreSQL database.
-__Apache Kafka and Zookeeper__: Used for streaming data from PostgreSQL to the processing engine.
-__Control Center and Schema Registry__: Helps in monitoring and schema management of our Kafka streams.
-__Apache Spark__: For data processing with its master and worker nodes.
+__Data Source__: We use randomuser.me API to generate random user data for our pipeline.<br/>
+__Apache Airflow__: Responsible for orchestrating the pipeline and storing fetched data in a PostgreSQL database.<br/>
+__Apache Kafka and Zookeeper__: Used for streaming data from PostgreSQL to the processing engine.<br/>
+__Control Center and Schema Registry__: Helps in monitoring and schema management of our Kafka streams.<br/>
+__Apache Spark__: For data processing with its master and worker nodes.<br/>
 __Cassandra__: Where the processed data will be stored.
 
 # Setup and Requirements
