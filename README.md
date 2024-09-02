@@ -52,5 +52,9 @@ __Cassandra__: Where the processed data will be stored.
 # Confluent Control Center Message Queue
 ![Capture2](https://github.com/user-attachments/assets/c9ad9a91-a51d-4101-a0b5-00ec1fcf861d)
 
+# Docker Containers
+![Screenshot (112)](https://github.com/user-attachments/assets/83a7758b-8431-4b72-9432-cb23aee5f96f)
+
+
 
 
