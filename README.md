@@ -20,12 +20,12 @@ Setup and Requirements
 
 1. Clone the repository
    
- '''git clone https://github.com/BhavyaShaztry-Portfolio/user-profile-streaming.git'''
+```git clone https://github.com/BhavyaShaztry-Portfolio/user-profile-streaming.git```
 
 2. Navigate to the project directory
 
-   ''' cd user-profile-streaming'''
+   ``` cd user-profile-streaming```
 
 3. Run Docker Compose to Spin Up the Service
    
-   '''docker-compose up'''
+   ```docker-compose up```
